@@ -1,4 +1,4 @@
-import { Options } from "$fresh-main-plugins/twindv1.ts";
+import { Options } from "$fresh-plugins/twindv1.ts";
 import { defineConfig } from "twind";
 
 import presetAutoPrefix from "twind-preset-autoprefix";
